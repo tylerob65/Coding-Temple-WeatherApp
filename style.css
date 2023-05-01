@@ -1,0 +1,53 @@
+body {
+    color:black;
+    height:100vh;
+    background-image: linear-gradient(rgb(51, 201, 250), rgb(234, 234, 234));
+}
+
+.weather-standard {
+    color: black;
+    background-image: linear-gradient(rgb(51, 201, 250), rgb(234, 234, 234));
+}
+
+.weather-thunder{
+    color:rgb(231, 231, 58);
+    background-image: linear-gradient(rgb(14, 91, 255), rgb(42, 46, 0));
+}
+
+.weather-snow {
+    background-image: linear-gradient(rgb(201, 218, 255), rgb(244, 244, 244));
+}
+
+.weather-rain {
+    color:rgb(194, 219, 241);
+    background-image: linear-gradient(rgb(19, 83, 139), rgb(115, 160, 202));
+}
+
+.weather-fog {
+    background-image: linear-gradient(rgb(220, 228, 234), rgb(156, 156, 157));
+}
+
+.weather-very-cloudy {
+    color:rgb(225, 225, 225);
+    background-image: linear-gradient(rgb(119, 119, 119), rgb(205, 205, 205));
+}
+
+.weather-kinda-cloudy {
+    color: black;
+    /* background-image: linear-gradient(rgb(212, 235, 245), rgb(140, 140, 140)); */
+    background-image: linear-gradient(rgb(158, 220, 239), rgb(200, 204, 207));
+}
+
+
+.card-holder {
+    display: flex;
+    justify-content: center;
+}
+
+.card {
+    width:400px;
+}
+
+.weather-icon {
+    width:50px;
+}

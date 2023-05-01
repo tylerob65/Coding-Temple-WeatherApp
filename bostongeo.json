@@ -1,0 +1,49 @@
+[
+    {
+        "name": "Boston",
+        "local_names": {
+            "oc": "Boston",
+            "ro": "Boston",
+            "eo": "Bostono",
+            "ta": "பாஸ்டன்",
+            "sr": "Бостон",
+            "ar": "بوسطن",
+            "nl": "Boston",
+            "en": "Boston",
+            "mk": "Бостон",
+            "fa": "بوستون",
+            "ru": "Бостон",
+            "pl": "Boston",
+            "fr": "Boston",
+            "zh": "波士顿 / 波士頓",
+            "it": "Boston",
+            "ja": "ボストン",
+            "ga": "Bostún",
+            "pt": "Boston",
+            "he": "בוסטון",
+            "de": "Boston",
+            "ko": "보스턴",
+            "uk": "Бостон",
+            "es": "Boston",
+            "sv": "Boston",
+            "fi": "Boston"
+        },
+        "lat": 42.3554334,
+        "lon": -71.060511,
+        "country": "US",
+        "state": "Massachusetts"
+    },
+    {
+        "name": "Boston",
+        "local_names": {
+            "ta": "பாஸ்டன்",
+            "be": "Бостан",
+            "en": "Boston",
+            "lt": "Bostonas"
+        },
+        "lat": 52.9770408,
+        "lon": -0.0239836,
+        "country": "GB",
+        "state": "England"
+    }
+]
